@@ -1,1 +1,1 @@
-# hockeyintegrador
+# Migthy Ducks Hockey League
